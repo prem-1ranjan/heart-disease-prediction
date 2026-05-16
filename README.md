@@ -9,7 +9,9 @@ Predicting heart disease using multiple ML algorithms with model persistence.
 | Logistic Regression | 87.50% | 0.8878 |
 | Naive Bayes | 86.96% | 0.8788 |
 | SVM (RBF Kernel) | 86.41% | 0.8804 |
+| Neural Network | 84.70% | 0.85 |
 | Decision Tree | 76.63% | 0.7795 |
+
 
 Best Model: KNN with 88.59% accuracy
 
